@@ -21,7 +21,7 @@ Nachdem ihr das Modpack [hier](https://github.com/esportubt/ubtavern/releases) r
 > Wenn Minecraft nicht startet, liegt das wahrscheinlich an einer falschen Java-Version.
 
 #### Überprüfe deine Java Version
-Klicke dafür auf die hinzugefügte UBTavern Instanz im PrismLauncher. Anschließend `Bearbeiten > Einstellungen > Java` und setzte einen Haken ✅ bei `Java-Installation`. Klicke jetzt auf `Auto-Erkennung...`. **Unterstützt werden nur Java Versionen `v17.x.y`**. Eventuell funktionieren aber auch neuere, wenn du den Haken ✅ bei `Java-Kompatibilitätsüberprüfung überspringen` setzt. Installiere dir ansonsten die richtige Java SDK.
+Klicke dafür auf die hinzugefügte UBTavern Instanz im PrismLauncher. Anschließend `Bearbeiten > Einstellungen > Java` und setzte einen Haken ✅ bei `Java-Installation`. Klicke jetzt auf `Auto-Erkennung...`. **Unterstützt werden nur Java Versionen `v17.x.y`**. Eventuell funktionieren aber auch neuere, wenn du den Haken ✅ bei `Java-Kompatibilitätsüberprüfung überspringen` setzt. Installiere dir ansonsten die richtige Java JDK.
 
 ## Server
 Die IP vom Server ist: **minecraft.esportubt.de**
