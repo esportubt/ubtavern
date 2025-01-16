@@ -178,6 +178,15 @@
     },
     {
         "authors": [
+            "Toni"
+        ],
+        "filename": "distraction_free_recipes-fabric-1.1.0-1.20.1.jar",
+        "name": "Distraction Free Recipes (EMI)",
+        "url": "https://modrinth.com/mod/gbJLUhZP",
+        "version": "1.0.0"
+    },
+    {
+        "authors": [
             "NovaWostra"
         ],
         "filename": "dungeons-and-taverns-pillager-outpost-rework-1.1.jar",
@@ -374,6 +383,15 @@
         "name": "Iris",
         "url": "https://modrinth.com/mod/YL57xq9U",
         "version": "1.7.5+mc1.20.1"
+    },
+    {
+        "authors": [
+            "mezz"
+        ],
+        "filename": "jei-1.20.1-fabric-15.20.0.106.jar",
+        "name": "Just Enough Items",
+        "url": "https://modrinth.com/mod/u6dRKJwZ",
+        "version": "15.20.0.106"
     },
     {
         "authors": [
@@ -682,6 +700,15 @@
         "name": "Trinkets",
         "url": "https://modrinth.com/mod/5aaWibi9",
         "version": "3.7.2"
+    },
+    {
+        "authors": [
+            "Toni"
+        ],
+        "filename": "txnilib-fabric-1.0.21-1.20.1.jar",
+        "name": "TxniLib",
+        "url": "https://modrinth.com/mod/vBbPDuOs",
+        "version": "1.0.21"
     },
     {
         "authors": [

@@ -160,6 +160,15 @@
     },
     {
         "authors": [
+            "Toni"
+        ],
+        "filename": "distraction_free_recipes-fabric-1.1.0-1.20.1.jar",
+        "name": "Distraction Free Recipes (EMI)",
+        "url": "https://modrinth.com/mod/gbJLUhZP",
+        "version": "1.0.0"
+    },
+    {
+        "authors": [
             "FoggyHillside"
         ],
         "filename": "ends_delight-refabricated-1.20.1-2.5.jar",
@@ -266,6 +275,15 @@
         "name": "Indium",
         "url": "https://modrinth.com/mod/Orvt0mRa",
         "version": "1.0.34+mc1.20.1"
+    },
+    {
+        "authors": [
+            "mezz"
+        ],
+        "filename": "jei-1.20.1-fabric-15.20.0.106.jar",
+        "name": "Just Enough Items",
+        "url": "https://modrinth.com/mod/u6dRKJwZ",
+        "version": "15.20.0.106"
     },
     {
         "authors": [
@@ -508,6 +526,15 @@
         "name": "Trinkets",
         "url": "https://modrinth.com/mod/5aaWibi9",
         "version": "3.7.1"
+    },
+    {
+        "authors": [
+            "Toni"
+        ],
+        "filename": "txnilib-fabric-1.0.21-1.20.1.jar",
+        "name": "TxniLib",
+        "url": "https://modrinth.com/mod/vBbPDuOs",
+        "version": "1.0.21"
     },
     {
         "filename": "valhelsia_core-fabric-1.20.1-1.1.2.jar",
