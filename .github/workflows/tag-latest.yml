@@ -1,0 +1,21 @@
+name: Update Latest Tag
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  update-latest-tag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update latest tag
+        run: |
+          NEW_TAG=$(git describe --tags `git rev-list --tags --max-count=1`)
+          git tag -d latest || true
+          git push origin :refs/tags/latest || true
+          git tag latest $NEW_TAG
+          git push origin --tags
