@@ -347,6 +347,15 @@
     },
     {
         "authors": [
+            "mezz"
+        ],
+        "filename": "jei-1.20.1-fabric-15.20.0.106.jar",
+        "name": "Just Enough Items",
+        "url": "https://modrinth.com/mod/u6dRKJwZ",
+        "version": "15.20.0.106"
+    },
+    {
+        "authors": [
             "JellySquid",
             "2No2Name"
         ],
